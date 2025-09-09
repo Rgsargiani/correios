@@ -8,7 +8,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "Unable to resolve 'NUnit (>= 3.13.3)' for 'net9.0'.",
+      "message": "Não foi possível resolver 'NUnit (>= 3.13.3)' para 'net9.0'.",
       "projectPath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "filePath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "libraryId": "NUnit",
@@ -19,7 +19,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "Unable to resolve 'NUnit3TestAdapter (>= 4.5.0)' for 'net9.0'.",
+      "message": "Não foi possível resolver 'NUnit3TestAdapter (>= 4.5.0)' para 'net9.0'.",
       "projectPath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "filePath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "libraryId": "NUnit3TestAdapter",
@@ -30,7 +30,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 17.11.1)' for 'net9.0'.",
+      "message": "Não foi possível resolver 'Microsoft.NET.Test.Sdk (>= 17.11.1)' para 'net9.0'.",
       "projectPath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "filePath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "libraryId": "Microsoft.NET.Test.Sdk",
@@ -41,7 +41,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "Unable to resolve 'Selenium.WebDriver (>= 4.25.0)' for 'net9.0'.",
+      "message": "Não foi possível resolver 'Selenium.WebDriver (>= 4.25.0)' para 'net9.0'.",
       "projectPath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "filePath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "libraryId": "Selenium.WebDriver",
@@ -52,7 +52,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "Unable to resolve 'WebDriverManager (>= 2.16.2)' for 'net9.0'.",
+      "message": "Não foi possível resolver 'WebDriverManager (>= 2.16.2)' para 'net9.0'.",
       "projectPath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "filePath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "libraryId": "WebDriverManager",
@@ -63,7 +63,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "Unable to resolve 'SpecFlow (>= 3.9.74)' for 'net9.0'.",
+      "message": "Não foi possível resolver 'SpecFlow (>= 3.9.74)' para 'net9.0'.",
       "projectPath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "filePath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "libraryId": "SpecFlow",
@@ -74,7 +74,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "Unable to resolve 'SpecFlow.NUnit (>= 3.9.74)' for 'net9.0'.",
+      "message": "Não foi possível resolver 'SpecFlow.NUnit (>= 3.9.74)' para 'net9.0'.",
       "projectPath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "filePath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "libraryId": "SpecFlow.NUnit",
@@ -85,7 +85,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "Unable to resolve 'SpecFlow.Tools.MsBuild.Generation (>= 3.9.74)' for 'net9.0'.",
+      "message": "Não foi possível resolver 'SpecFlow.Tools.MsBuild.Generation (>= 3.9.74)' para 'net9.0'.",
       "projectPath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "filePath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
       "libraryId": "SpecFlow.Tools.MsBuild.Generation",
