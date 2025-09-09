@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CorreiosAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66b78f2720bd320364471205df3222238c0d3679")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+908dfa8992c33e11cda991cfdadef17472f29d42")]
 [assembly: System.Reflection.AssemblyProductAttribute("CorreiosAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CorreiosAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
