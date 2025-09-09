@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Microsoft.NET.Test.Sdk >= 17.11.1",
+      "NUnit >= 3.13.3",
+      "NUnit3TestAdapter >= 4.5.0",
+      "Selenium.WebDriver >= 4.25.0",
+      "SpecFlow >= 3.9.74",
+      "SpecFlow.NUnit >= 3.9.74",
+      "SpecFlow.Tools.MsBuild.Generation >= 3.9.74",
+      "WebDriverManager >= 2.16.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Roger\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
+      "projectName": "CorreiosAutomation",
+      "projectPath": "C:\\Users\\Roger\\Desktop\\correios\\CorreiosAutomation.csproj",
+      "packagesPath": "C:\\Users\\Roger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roger\\Desktop\\correios\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Roger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "[17.11.1, )"
+          },
+          "NUnit": {
+            "target": "Package",
+            "version": "[3.13.3, )"
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "[4.5.0, )"
+          },
+          "Selenium.WebDriver": {
+            "target": "Package",
+            "version": "[4.25.0, )"
+          },
+          "SpecFlow": {
+            "target": "Package",
+            "version": "[3.9.74, )"
+          },
+          "SpecFlow.NUnit": {
+            "target": "Package",
+            "version": "[3.9.74, )"
+          },
+          "SpecFlow.Tools.MsBuild.Generation": {
+            "target": "Package",
+            "version": "[3.9.74, )"
+          },
+          "WebDriverManager": {
+            "target": "Package",
+            "version": "[2.16.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'NUnit (>= 3.13.3)' for 'net9.0'.",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'NUnit3TestAdapter (>= 4.5.0)' for 'net9.0'.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 17.11.1)' for 'net9.0'.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Selenium.WebDriver (>= 4.25.0)' for 'net9.0'.",
+      "libraryId": "Selenium.WebDriver",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'WebDriverManager (>= 2.16.2)' for 'net9.0'.",
+      "libraryId": "WebDriverManager",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'SpecFlow (>= 3.9.74)' for 'net9.0'.",
+      "libraryId": "SpecFlow",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'SpecFlow.NUnit (>= 3.9.74)' for 'net9.0'.",
+      "libraryId": "SpecFlow.NUnit",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'SpecFlow.Tools.MsBuild.Generation (>= 3.9.74)' for 'net9.0'.",
+      "libraryId": "SpecFlow.Tools.MsBuild.Generation",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
